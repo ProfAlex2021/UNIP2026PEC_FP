@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791415478 source:c:\users\alex\documents\unip\2026\2sem\pec\laboratorio\aula5\projeto\prjexemplo\funcao.c
+
+1791415923 source:c:\users\alex\documents\unip\2026\2sem\pec\laboratorio\aula5\projeto\prjexemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcao.c"
+
+1791415478 c:\users\alex\documents\unip\2026\2sem\pec\laboratorio\aula5\projeto\prjexemplo\funcao.c
+
